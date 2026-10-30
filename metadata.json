@@ -1,0 +1,6 @@
+{
+  "name": "Juxtago - Delivery Super-App",
+  "description": "La competencia definitiva de Rappi: restaurantes gourmet, Turbo supermercado en 10 min, farmacia y JuxtaFavor con seguimiento en tiempo real.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
